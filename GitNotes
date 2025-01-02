@@ -1,0 +1,15 @@
+git init  -- to initialize the git repo under any folder
+
+git status  -- to check current status , any file added in project or not
+
+git add      -- to add any file or folder comm : git add <file>
+
+git status    --  to check status
+
+git commit -m  " any message "     -- to commit the changes
+
+git push         --  to push the code to github
+
+
+--------------------------------------------------
+to add remote project url 
