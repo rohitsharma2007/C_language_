@@ -1,0 +1,1 @@
+C Program to swap values using third variable using while loop.
